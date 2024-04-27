@@ -1,0 +1,62 @@
+.rightnav_cont {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 0.5rem;
+    height: 100vh;
+    justify-content: space-between;
+}
+
+.head {
+    margin-top: 1rem;
+    color: #000;
+    font-family: Roboto;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.date {
+    color: #676666;
+    font-family: Roboto;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    align-items: start;
+}
+
+
+.inc {
+    color: #676666;
+    font-size: 0.8rem;
+    /* margin-bottom: 0.5rem; */
+}
+
+.inc_cad {
+    color: #148714;
+    font-size: 1rem;
+    /* margin-bottom: 0.2rem; */
+}
+
+.exp {
+    color: #676666;
+    font-size: 0.8rem;
+    /* margin-bottom: 0.2rem; */
+}
+
+.exp_cad {
+    color: #D04141;
+    font-size: 1rem;
+    /* margin-bottom: 0.5rem; */
+}
+
+.payments {
+    color: #676666;
+    font-size: 0.75rem;
+    font-weight: 400;
+}

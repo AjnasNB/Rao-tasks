@@ -1,0 +1,20 @@
+.com_head {
+    display: flex;
+    width: 20rem;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.com_heading {
+    color: #000;
+    font-size: 1rem;
+}
+
+.viewall {
+    color: #111;
+    cursor: pointer;
+    font-size: 0.75rem;
+    font-weight: 400;
+    text-decoration-line: underline;
+}

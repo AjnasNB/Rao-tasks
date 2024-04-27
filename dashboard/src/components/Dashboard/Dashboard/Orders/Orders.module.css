@@ -1,0 +1,59 @@
+.upc_head {
+    display: flex;
+    border-radius: 0.25rem;
+    background: linear-gradient(90deg, #FFFFFF, #FFCB49);
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    color: #000;
+    font-family: Roboto;
+    font-size: 0.8rem;
+    font-weight: 400;
+    padding: 0.2rem;
+}
+
+.ong_head {
+    display: flex;
+    border-radius: 0.25rem;
+    background: linear-gradient(90deg, #FFFFFF, #7464FF);
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    color: #000;
+    font-family: Roboto;
+    font-size: 0.8rem;
+    font-weight: 400;
+    padding: 0.2rem;
+}
+
+.comp_head {
+    display: flex;
+    border-radius: 0.25rem;
+    background: linear-gradient(90deg, #FFFFFF, #4FD2B5);
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    color: #000;
+    font-family: Roboto;
+    font-size: 0.8rem;
+    font-weight: 400;
+    padding: 0.2rem;
+}
+
+.ord_head {
+    color: #000;
+    font-family: Roboto;
+    font-size: 0.875rem;
+    font-weight: 500;
+    text-align: start;
+    margin: 0.7rem;
+}
+
+.ord_cont {
+    background: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0.5rem;
+}
